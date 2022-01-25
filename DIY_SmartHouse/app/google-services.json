@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "612474323169",
+    "project_id": "smarthouse-f28d9",
+    "storage_bucket": "smarthouse-f28d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612474323169:android:9ab1db7b5a5dd6e70fb7a0",
+        "android_client_info": {
+          "package_name": "com.example.deliverable1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612474323169-9v9g3ett3p37vb637mg6ng8rf2pqlusv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY5ETnSiqgltQ50L9IAEftndzyYWMVzgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612474323169-9v9g3ett3p37vb637mg6ng8rf2pqlusv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612474323169:android:c14224f089c1203a0fb7a0",
+        "android_client_info": {
+          "package_name": "com.example.diy_smarthouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612474323169-9v9g3ett3p37vb637mg6ng8rf2pqlusv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY5ETnSiqgltQ50L9IAEftndzyYWMVzgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612474323169-9v9g3ett3p37vb637mg6ng8rf2pqlusv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
